@@ -7,7 +7,7 @@
 ```
 
 ```text
-you can report any bug or issues with capsule here
+You can report any bug or issues with Capsule here
 ```
 </div>
 

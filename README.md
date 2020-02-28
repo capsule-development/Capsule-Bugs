@@ -1,13 +1,13 @@
 <div align="center">
 
-# Capsule 💊
+# Capsule 
 
 ``` 
 🎉 A package manager for iOS! (In Development)
 ```
 
 ```text
-you can report any bug or issues with capsule here
+You can report any bug or issues with capsule here. Please submit a crashlog(if there is) and explain the bug.
 ```
 </div>
 

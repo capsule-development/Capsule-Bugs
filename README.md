@@ -6,8 +6,9 @@
 🎉 A package manager for iOS! (In Development)
 ```
 
-```text
-You can report any bug or issues with capsule here. Please submit a crashlog(if there is) and explain the bug.
+```
+You can report any bug or issues with capsule here. 
+Please submit a crashlog (if there is) and explain the bug.
 ```
 </div>
 

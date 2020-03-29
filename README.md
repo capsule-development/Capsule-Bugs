@@ -21,7 +21,8 @@ Contributors:
 - [@NASAConfirmsD2](https://twitter.com/NASAConfirmsD2) 
 - [@coltonios](https://twitter.com/coltonios) 
 - [@J3nRa1n](https://twitter.com/J3nRa1n)
-- [@pixeljellyfish](https://twitter.com/pixeljellyfish)<br/> 
+- [@pixeljellyfish](https://twitter.com/pixeljellyfish)
+- [@cr4ptic](https://twitter.com/cr4ptic)<br/>
 
 ### Discord Server
 [Discord Invite Link](https://discordapp.com/invite/pE28QcS) <br/>
